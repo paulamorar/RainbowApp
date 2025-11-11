@@ -35,7 +35,7 @@ struct ContentView: View {
             Slider(value: $textSize, in: 16...40) //$ pq llegeix + modifica
             
             Button {
-                text = "Hello Paula!"
+                text = "Hello Learners!"
             } label: {
                 Text("Change Text")
             }
